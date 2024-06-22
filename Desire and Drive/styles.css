@@ -1,0 +1,37 @@
+body{
+        background-color: black;
+        text-decoration: wavy;
+    }
+h1{
+        color: blueviolet;
+        font-size: 28px;
+        text-align: center;
+  }
+
+p{
+    /* font-style: oblique; */
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: whitesmoke;
+ }
+
+ hr{
+    color: rgba(6, 38, 241, 0.92);
+    border: dotted;
+    border-radius: 10px;
+    width: 50%;
+    height: 0px;
+   align-self: center;
+}
+
+ #note{
+    text-align: center;
+ }
+
+ #story{
+      text-align: center;
+ }
+
+ #closing{
+      text-align: right;
+ }
